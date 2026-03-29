@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+margin: 20px
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
